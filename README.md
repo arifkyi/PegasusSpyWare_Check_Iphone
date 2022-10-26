@@ -4,6 +4,11 @@ Backup your iPhone with Itunes and encrypted is ON,
 
 i just using the password during backup:  MyPassword123  
 
+Check the result in 
+/Users/ahmadrifky/Library/Application Support/MobileSync
+
+We just move it to ~/Desktop
+
 Pull Image from Docker
 https://docs.mvt.re/en/latest/docker/
 git clone https://github.com/mvt-project/mvt.git
