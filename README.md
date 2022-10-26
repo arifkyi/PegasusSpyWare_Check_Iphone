@@ -1,6 +1,6 @@
 # Pegasus SpyWare Check for Iphone
-
-<b>Backup your iPhone with Itunes and encrypted is ON, with Password YOUR_PASSWORD</b>
+<b> Backp your Iphone first </b>
+Backup your iPhone with Itunes and encrypted is ON, with Password YOUR_PASSWORD</b>
 
 i just using the password during backup:  YOUR_PASSWORD  
 
@@ -55,6 +55,7 @@ indicators "RCS Lab Spyware Indicators of Compromise" to
 indicators "Stalkerware Indicators of Compromise" to
 
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_AssoEchap_stalkerware-indicators_master_generated_stalkerware.stix2
+***************************************
 
 
 mvt-ios check-backup --output /home/output/ /home/cases/ --iocs   /root/.local/share/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2021-07-18_nso_pegasus.stix2
