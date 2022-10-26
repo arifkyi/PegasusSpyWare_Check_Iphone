@@ -1,8 +1,8 @@
 # PegasusSpyWareCheckforIphone
 
-Backup your iPhone with Itunes and encrypted is ON,
+Backup your iPhone with Itunes and encrypted is ON, with Password YOUR_PASSWORD
 
-i just using the password during backup:  MyPassword123  
+i just using the password during backup:  YOUR_PASSWORD  
 
 Check the result in 
 /Users/ahmadrifky/Library/Application Support/MobileSync
@@ -23,7 +23,7 @@ Just run this command in the same directory where the backup file is belong:
 docker run --rm -it -v "$PWD:/mnt/tmp" mvt
 
 Now start to Decrypt the Backup:
-root@ceac05f52f3f:/mnt/tmp# MVT_IOS_BACKUP_PASSWORD="MyPassword123" mvt-ios decrypt-backup -d /home/cases /mnt/tmp/Backup
+root@ceac05f52f3f:/mnt/tmp# MVT_IOS_BACKUP_PASSWORD="YOUR_PASSWORD" mvt-ios decrypt-backup -d /home/cases /mnt/tmp/Backup
 
 Make the output directory:
 mkdir /home/output
