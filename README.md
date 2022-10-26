@@ -38,15 +38,19 @@ check in the /home/output is there any suspicious thing detected:
 
 
 indicators "NSO Group Pegasus Indicators of Compromise" to
+
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2021-07-18_nso_pegasus.stix2
 
 indicators "Cytrox Predator Spyware Indicators of Compromise" to
+
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2021-12-16_cytrox_cytrox.stix2
 
 indicators "RCS Lab Spyware Indicators of Compromise" to
+
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_mvt-project_mvt-indicators_main_2022-06-23_rcs_lab_rcs.stix2
 
 indicators "Stalkerware Indicators of Compromise" to
+
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_AssoEchap_stalkerware-indicators_master_generated_stalkerware.stix2
 
 
