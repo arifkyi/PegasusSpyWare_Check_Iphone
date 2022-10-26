@@ -37,6 +37,8 @@ check in the /home/output is there any suspicious thing detected:
 
 /home/output# ls -ltr|grep -i detect
 
+***************************************
+
 
 indicators "NSO Group Pegasus Indicators of Compromise" to
 
