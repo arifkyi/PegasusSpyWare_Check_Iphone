@@ -10,9 +10,13 @@ Check the result in
 We just move it to ~/Desktop
 
 Pull Image from Docker
+
 https://docs.mvt.re/en/latest/docker/
+
 git clone https://github.com/mvt-project/mvt.git
+
 cd mvt
+
 docker build -t mvt .
 
 Just run this command in the same directory where the backup file is belong:
