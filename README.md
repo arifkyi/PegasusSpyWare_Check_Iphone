@@ -29,9 +29,11 @@ Make the output directory:
 mkdir /home/output
 
 do the basic check:
+
 mvt-ios check-backup --output /home/output/ /home/cases/
 
 check in the /home/output is there any suspicious thing detected:
+
 /home/output# ls -ltr|grep -i detect
 
 
