@@ -1,4 +1,4 @@
-# PegasusSpyWareCheck
+# PegasusSpyWareCheckforIphone
 
 Backup your iPhone with Itunes and encrypted is ON,
 
