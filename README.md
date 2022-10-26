@@ -1,6 +1,6 @@
 # Pegasus SpyWare Check for Iphone
 
-Backup your iPhone with Itunes and encrypted is ON, with Password YOUR_PASSWORD
+# Backup your iPhone with Itunes and encrypted is ON, with Password YOUR_PASSWORD
 
 i just using the password during backup:  YOUR_PASSWORD  
 
