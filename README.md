@@ -2,9 +2,9 @@
 
 <b> Back up The Iphone  </b>
 
-Backup your iPhone with Itunes and encrypted is ON, with Password YOUR_PASSWORD</b>
+Backup your iPhone with Itunes and encrypted is ON, with Password, just an example:  MyPassword123</b>
 
-i just using the password during backup:  YOUR_PASSWORD  
+i just using the password during backup:  MyPassword123 
 
 Check the result in 
 /Users/ahmadrifky/Library/Application Support/MobileSync
@@ -29,7 +29,7 @@ docker run --rm -it -v "$PWD:/mnt/tmp" mvt
 
 <b> Now start to Decrypt the Backup: </b>
 
-root@ceac05f52f3f:/mnt/tmp# MVT_IOS_BACKUP_PASSWORD="YOUR_PASSWORD" mvt-ios decrypt-backup -d /home/cases /mnt/tmp/Backup
+root@ceac05f52f3f:/mnt/tmp# MVT_IOS_BACKUP_PASSWORD="MyPassword123" mvt-ios decrypt-backup -d /home/cases /mnt/tmp/Backup
 
 <b> Make the output directory: </b>
 mkdir /home/output
