@@ -1,5 +1,11 @@
 # Pegasus SpyWare Check for Iphone
 
+<b>  Background : </b>
+
+Although the title is about Pegasus spyware, but the scope is also checking others spyware, such as Cytrox,
+Stalkerware, RCS Lab etc.
+
+
 <b> Back up The Iphone  </b>
 
 Backup your iPhone with Itunes and encrypted is ON, with Password, just an example:  MyPassword123</b>
