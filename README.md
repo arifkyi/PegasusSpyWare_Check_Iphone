@@ -23,7 +23,7 @@ cd mvt
 docker build -t mvt .
 
 Just run this command in the same directory where the backup file is belong:
-docker run --rm -it -v "$PWD:/mnt/tmp" mvt
+<b> docker run --rm -it -v "$PWD:/mnt/tmp" mvt </b>
 
 # Usage
 
