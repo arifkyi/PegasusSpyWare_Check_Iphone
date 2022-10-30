@@ -31,7 +31,7 @@ docker run --rm -it -v "$PWD:/mnt/tmp" mvt
 
 root@ceac05f52f3f:/mnt/tmp# MVT_IOS_BACKUP_PASSWORD="YOUR_PASSWORD" mvt-ios decrypt-backup -d /home/cases /mnt/tmp/Backup
 
-  <b> Make the output directory: </b>
+<b> Make the output directory: </b>
 mkdir /home/output
 
 do the basic check:
