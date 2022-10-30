@@ -11,7 +11,8 @@ Check the result in
 
 We just move it to ~/Desktop
 
-Pull Image from Docker
+# Prepare the verification tools
+<b> Pull Image from Docker <b>
 
 https://docs.mvt.re/en/latest/docker/
 
@@ -24,11 +25,13 @@ docker build -t mvt .
 Just run this command in the same directory where the backup file is belong:
 docker run --rm -it -v "$PWD:/mnt/tmp" mvt
 
-Now start to Decrypt the Backup:
+# Usage
+
+<b> Now start to Decrypt the Backup: </b>
 
 root@ceac05f52f3f:/mnt/tmp# MVT_IOS_BACKUP_PASSWORD="YOUR_PASSWORD" mvt-ios decrypt-backup -d /home/cases /mnt/tmp/Backup
 
-Make the output directory:
+  <b> Make the output directory: </b>
 mkdir /home/output
 
 do the basic check:
