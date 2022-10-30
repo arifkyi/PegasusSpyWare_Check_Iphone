@@ -45,22 +45,25 @@ check in the /home/output is there any suspicious thing detected:
 ***************************************
 
 # Check the compromise
+<b> download the STIX file </b>
+mvt-ios download-iocs
+
 <b> indicators "NSO Group Pegasus Indicators of Compromise" to </b>
 
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2021-07-18_nso_pegasus.stix2
 
-indicators "Cytrox Predator Spyware Indicators of Compromise" to
+<b> indicators "Cytrox Predator Spyware Indicators of Compromise" to </b>
 
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2021-12-16_cytrox_cytrox.stix2
 
-indicators "RCS Lab Spyware Indicators of Compromise" to
+<b> indicators "RCS Lab Spyware Indicators of Compromise" to </b> 
 
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_mvt-project_mvt-indicators_main_2022-06-23_rcs_lab_rcs.stix2
 
-indicators "Stalkerware Indicators of Compromise" to
+<b> indicators "Stalkerware Indicators of Compromise" to <b> 
 
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_AssoEchap_stalkerware-indicators_master_generated_stalkerware.stix2
 ***************************************
 
-
-mvt-ios check-backup --output /home/output/ /home/cases/ --iocs   /root/.local/share/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2021-07-18_nso_pegasus.stix2
+Check one by one by fire these commands below: 
+mvt-ios check-backup --output /home/output/ /home/cases/ --iocs   <full path name of the stix file>
