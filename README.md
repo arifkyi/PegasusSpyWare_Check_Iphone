@@ -1,6 +1,6 @@
 # Pegasus SpyWare Check for Iphone
 
-<b> Backp your Iphone first </b>
+<h> Backp your Iphone first </h>
 
 Backup your iPhone with Itunes and encrypted is ON, with Password YOUR_PASSWORD</b>
 
