@@ -12,7 +12,7 @@ Check the result in
 We just move it to ~/Desktop
 
 # Prepare the verification tools
-<b> Pull Image from Docker <b>
+<b> Pull Image from Docker </b>
 
 https://docs.mvt.re/en/latest/docker/
 
@@ -44,8 +44,8 @@ check in the /home/output is there any suspicious thing detected:
 
 ***************************************
 
-
-indicators "NSO Group Pegasus Indicators of Compromise" to
+# Check the compromise
+<b> indicators "NSO Group Pegasus Indicators of Compromise" to </b>
 
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2021-07-18_nso_pegasus.stix2
 
