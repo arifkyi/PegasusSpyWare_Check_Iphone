@@ -66,7 +66,7 @@ mvt-ios download-iocs
 
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_mvt-project_mvt-indicators_main_2022-06-23_rcs_lab_rcs.stix2
 
-<b> indicators "Stalkerware Indicators of Compromise" to <b> 
+<b> indicators "Stalkerware Indicators of Compromise" to </b> 
 
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_AssoEchap_stalkerware-indicators_master_generated_stalkerware.stix2
 ***************************************
