@@ -71,5 +71,6 @@ mvt-ios download-iocs
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_AssoEchap_stalkerware-indicators_master_generated_stalkerware.stix2
 ***************************************
 
-Check one by one by fire these commands below: 
+Check one by one by fire these commands below:
+
 mvt-ios check-backup --output /home/output/ /home/cases/ --iocs   <full path name of the stix file>
