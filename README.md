@@ -34,8 +34,7 @@ docker build -t mvt .
 
 Just run this command in the same directory where the backup file is belong:
 <b> docker run --rm -it -v "$PWD:/mnt/tmp" mvt </b>
-or for android because need Network
-<b> docker run --rm -it --network host -v "$PWD:/mnt/tmp" mvt </b>
+
 
 # Usage
 
