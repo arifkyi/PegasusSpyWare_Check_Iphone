@@ -78,4 +78,4 @@ mvt-ios download-iocs
 
 Check one by one by fire these commands below:
 
-mvt-ios check-backup --output /home/output/ /home/cases/ --iocs   <full path name of the stix file>
+mvt-ios check-backup --output /home/output/ /home/cases/ --iocs   [full path name of the stix file]
