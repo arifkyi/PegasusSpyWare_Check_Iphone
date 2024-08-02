@@ -34,7 +34,9 @@ docker build -t mvt .
 
 Just run this command in the same directory where the backup file is belong:
 <b> docker run --rm -it -v "$PWD:/mnt/tmp" mvt </b>
-
+# Alternatively if The DockerFile above not Work For Build
+Pull from my Image Repository https://hub.docker.com/r/arifkyi/mvt to build
+the rest of the steps are the same
 
 # Usage
 
