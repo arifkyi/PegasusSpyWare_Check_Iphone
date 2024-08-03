@@ -61,7 +61,9 @@ check in the /home/output is there any suspicious thing detected:
 <b> download the STIX file </b>
 mvt-ios download-iocs
 
-# If just in case in the future not work, i already backup in this repository in Zip file
+
+# If just in case in the future:
+download IOCSnot work, i already backup in this repository in Zip file IOS_IOCS_STIX2.zip
 
 
 <b> indicators "NSO Group Pegasus Indicators of Compromise" to </b>
