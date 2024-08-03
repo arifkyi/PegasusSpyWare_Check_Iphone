@@ -61,6 +61,9 @@ check in the /home/output is there any suspicious thing detected:
 <b> download the STIX file </b>
 mvt-ios download-iocs
 
+# If just in case in the future not work, i already backup in this repository in Zip file
+
+
 <b> indicators "NSO Group Pegasus Indicators of Compromise" to </b>
 
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2021-07-18_nso_pegasus.stix2
