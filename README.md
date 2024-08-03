@@ -59,6 +59,7 @@ check in the /home/output is there any suspicious thing detected:
 
 # Check the compromise
 <b> download the STIX file </b>
+
 mvt-ios download-iocs
 
 
