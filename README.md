@@ -39,8 +39,8 @@ Pull from my Image Repository https://hub.docker.com/r/arifkyi/mvt to build
 
 and or run this
 
-
-docker run --rm -it --network host arifkyi/mvt
+<b> docker run --rm -it -v "$PWD:/mnt/tmp" mvt </b>
+docker run --rm -it -v "$PWD:/mnt/tmp" arifkyi/mvt
 
 the rest of the steps are the same
 # Usage
