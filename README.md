@@ -91,3 +91,14 @@ download IOCSnot work, i already backup in this repository in Zip file IOS_IOCS_
 Check one by one by fire these commands below:
 
 mvt-ios check-backup --output /home/output/ /home/cases/ --iocs   [full path name of the stix file]
+
+
+## ☕ Support Me, Support Rifky The Cyber YouTube Channel
+
+If you find this tool helpful and would like to support its development, you can buy me a coffee!
+
+**[☕ Support on Ko-fi](https://ko-fi.com/rifkythecyber)**
+
+Or scan the QR code below:
+
+![Donate](https://github.com/user-attachments/assets/560314d1-58f9-4d0d-a96e-78d28bb7dc44)
